@@ -1,3 +1,6 @@
+--updates by Abel
+--Reviewing the script
+
 --1) SELECT [list of columns] FROM
 SELECT *
 FROM actor;
