@@ -1,19 +1,20 @@
 # sql-dvd-rental-sample-db-analysis
 ## Analsysis of the PostgreSQL DVD rental sample database
 ### Project : Inro to SQL and Databases
+## Nati's contribution
 
 ###Betty's contribution
 ### Enguday's contribution
 ---
 
 **Section 1: DML (Data Manipulation Language) – 5 Questions**
-
+---
 1. Insert a New Customer Record:Insert a new customer with appropriate details (e.g., first name, last name, email, address, city) into the customer table.
 Update Customer Email: Update the email address of an existing customer by their customer ID.
 Delete a Rental Record: Delete a rental record from the rental table by specifying the rental ID.
 Increase Film Rental Duration: Update the rental duration of a specific film in the film table, increasing it by 2 days.
 Insert a New Film Record: Insert a new film with appropriate details (e.g., title, description, rental rate, length) into the film table.
-
+---
 **Section 2: DQL (Data Query Language or Querying for Analysis) – 15 Questions**
 1. List All Films: Retrieve a list of all films with their titles, release year, and rental rates.
 2. Find the Most Rented Film: Write a query to find the film that has been rented the most times.
