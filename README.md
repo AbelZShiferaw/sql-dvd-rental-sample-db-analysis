@@ -3,6 +3,7 @@
 ### Project : Inro to SQL and Databases
 
 ###Betty's contribution
+
 ---
 
 **Section 1: DML (Data Manipulation Language) – 5 Questions**
