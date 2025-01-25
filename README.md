@@ -2,7 +2,8 @@
 ## Analsysis of the PostgreSQL DVD rental sample database
 ### Project : Inro to SQL and Databases
 
-### Enguday's contribution
+###Betty's contribution
+
 ---
 
 **Section 1: DML (Data Manipulation Language) – 5 Questions**
