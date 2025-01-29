@@ -4,6 +4,7 @@
 
 ###Betty's contribution
 ### Enguday's contribution
+### Hermela's contribution
 ---
 
 **Section 1: DML (Data Manipulation Language) – 5 Questions**
